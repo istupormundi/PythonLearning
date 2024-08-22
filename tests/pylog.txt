@@ -1,0 +1,90 @@
+2024-08-17 18:47:43,222 :ERROR : test_e2e : OHH NO
+2024-08-17 18:47:44,121 :WARNING : test_e2e : iphone X
+2024-08-17 18:47:44,225 :WARNING : test_e2e : Samsung Note 8
+2024-08-17 18:47:44,248 :WARNING : test_e2e : Nokia Edge
+2024-08-17 18:47:44,262 :WARNING : test_e2e : Blackberry
+2024-08-17 18:47:44,422 :INFO : test_e2e : Selecting a country..
+2024-08-17 18:47:49,816 :INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-17 18:48:25,261 :INFO : test_submission : email:fake@gmail.com
+2024-08-17 18:48:25,288 :INFO : test_submission : Alert text:×
+Success! The Form has been submitted successfully!.
+2024-08-17 18:48:25,867 :INFO : test_submission : email:4fake4@gmail.com
+2024-08-17 18:48:25,867 :INFO : test_submission : email:4fake4@gmail.com
+2024-08-17 18:48:25,883 :INFO : test_submission : Alert text:×
+Success! The Form has been submitted successfully!.
+2024-08-17 18:48:25,883 :INFO : test_submission : Alert text:×
+Success! The Form has been submitted successfully!.
+2024-08-17 19:38:08,355 :ERROR : test_e2e : OHH NO
+2024-08-17 19:38:09,271 :WARNING : test_e2e : iphone X
+2024-08-17 19:38:09,287 :WARNING : test_e2e : Samsung Note 8
+2024-08-17 19:38:09,303 :WARNING : test_e2e : Nokia Edge
+2024-08-17 19:38:09,322 :WARNING : test_e2e : Blackberry
+2024-08-17 19:38:09,511 :INFO : test_e2e : Selecting a country..
+2024-08-17 19:38:14,807 :INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-18 19:27:26,063 :ERROR : test_e2e : OHH NO
+2024-08-18 19:27:26,973 :WARNING : test_e2e : iphone X
+2024-08-18 19:27:26,995 :WARNING : test_e2e : Samsung Note 8
+2024-08-18 19:27:27,012 :WARNING : test_e2e : Nokia Edge
+2024-08-18 19:27:27,031 :WARNING : test_e2e : Blackberry
+2024-08-18 19:27:27,202 :INFO : test_e2e : Selecting a country..
+2024-08-18 19:27:32,555 :INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-18 19:27:37,152 :INFO : test_submission : email:fake@gmail.com
+2024-08-18 19:27:37,187 :INFO : test_submission : Alert text:×
+Success! The Form has been submitted successfully!.
+2024-08-18 19:27:37,798 :INFO : test_submission : email:4fake4@gmail.com
+2024-08-18 19:27:37,798 :INFO : test_submission : email:4fake4@gmail.com
+2024-08-18 19:27:37,815 :INFO : test_submission : Alert text:×
+Success! The Form has been submitted successfully!.
+2024-08-18 19:27:37,815 :INFO : test_submission : Alert text:×
+Success! The Form has been submitted successfully!.
+2024-08-18 19:29:41,309 :ERROR : test_e2e : OHH NO
+2024-08-18 19:29:42,395 :WARNING : test_e2e : iphone X
+2024-08-18 19:29:42,409 :WARNING : test_e2e : Samsung Note 8
+2024-08-18 19:29:42,423 :WARNING : test_e2e : Nokia Edge
+2024-08-18 19:29:42,445 :WARNING : test_e2e : Blackberry
+2024-08-18 19:29:42,601 :INFO : test_e2e : Selecting a country..
+2024-08-18 19:29:47,911 :INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-18 19:29:52,327 :INFO : test_submission : email:fake@gmail.com
+2024-08-18 19:29:52,360 :INFO : test_submission : Alert text:×
+Success! The Form has been submitted successfully!.
+2024-08-18 19:29:52,945 :INFO : test_submission : email:4fake4@gmail.com
+2024-08-18 19:29:52,945 :INFO : test_submission : email:4fake4@gmail.com
+2024-08-18 19:29:52,963 :INFO : test_submission : Alert text:×
+Success! The Form has been submitted successfully!.
+2024-08-18 19:29:52,963 :INFO : test_submission : Alert text:×
+Success! The Form has been submitted successfully!.
+2024-08-18 19:32:22,706 :ERROR : test_e2e : OHH NO
+2024-08-18 19:32:23,648 :WARNING : test_e2e : iphone X
+2024-08-18 19:32:23,670 :WARNING : test_e2e : Samsung Note 8
+2024-08-18 19:32:23,689 :WARNING : test_e2e : Nokia Edge
+2024-08-18 19:32:23,713 :WARNING : test_e2e : Blackberry
+2024-08-18 19:32:23,884 :INFO : test_e2e : Selecting a country..
+2024-08-18 19:32:29,198 :INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-18 19:32:44,096 :ERROR : test_e2e : OHH NO
+2024-08-18 19:32:45,023 :WARNING : test_e2e : iphone X
+2024-08-18 19:32:45,043 :WARNING : test_e2e : Samsung Note 8
+2024-08-18 19:32:45,062 :WARNING : test_e2e : Nokia Edge
+2024-08-18 19:32:45,080 :WARNING : test_e2e : Blackberry
+2024-08-18 19:32:45,348 :INFO : test_e2e : Selecting a country..
+2024-08-18 19:32:50,698 :INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-18 19:32:54,967 :INFO : test_submission : email:fake@gmail.com
+2024-08-18 19:32:55,002 :INFO : test_submission : Alert text:×
+Success! The Form has been submitted successfully!.
+2024-08-18 19:32:55,592 :INFO : test_submission : email:4fake4@gmail.com
+2024-08-18 19:32:55,592 :INFO : test_submission : email:4fake4@gmail.com
+2024-08-18 19:32:55,607 :INFO : test_submission : Alert text:×
+Success! The Form has been submitted successfully!.
+2024-08-18 19:32:55,607 :INFO : test_submission : Alert text:×
+Success! The Form has been submitted successfully!.
+2024-08-20 00:12:49,835 :INFO : test_submission : email:fake@gmail.com
+2024-08-20 00:12:49,863 :INFO : test_submission : Alert text:×
+Success! The Form has been submitted successfully!.
+2024-08-20 00:15:38,299 :INFO : test_submission : email:fake@gmail.com
+2024-08-20 00:15:38,327 :INFO : test_submission : Alert text:×
+Success! The Form has been submitted successfully!.

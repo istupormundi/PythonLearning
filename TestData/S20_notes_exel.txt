@@ -1,0 +1,39 @@
+1. Сначала надо заимпортить пакет pip install openpyxl
+2. Затем поменять интерпретатор на тот, где есть openpyxl
+3. Задаём путь к файлу
+book = openpyxl.load_workbook("C:\\DATA\\QA\\Python\\python.xlsx")
+4. Получаем активную страницу
+sheet = book.active
+5. задаём ячейку
+cell = sheet.cell(row=1, column=2)
+6. получаем её содержимое
+print(cell.value)
+7. записываем значение в ячейку
+sheet.cell(row=2, column=2).value = "ALOHA"
+print(sheet.cell(row=2, column=2).value)
+8. получаем мах рядок и столбец
+print("max row: " + str(sheet.max_row))
+print("max col: " + str(sheet.max_column))
+9. обращаемся к ячейке по номеру
+print(sheet['A5'].value)
+10. записываем нужные данные из экселя дикшинари
+for i in range(1, sheet.max_row + 1):
+    if sheet.cell(row=i, column=1).value == "Testcase2":
+        print(i)
+        for j in range(2, sheet.max_column + 1):
+            # print("(i,j) = " "(" + str(i) + ")" + "(" + str(j) + ")")
+            dictionary[sheet.cell(row=1, column=j).value] = sheet.cell(row=i, column=j).value
+11. закидываем это как отдельный метод класса с данными
+12. !!! возвращать в методе надо лист!!
+return [dictionary]
+13. !!! делаем метод статик, чтобы не создавать инстанс класса
+14.  !! в статик методах инпут self не нужен
+15. Ищем где в тесте брались данные и просто вызываем тут наш метод
+@pytest.fixture(params=HomePageData.get_test_data("Testcase2"))
+# {"email":"4fake4@gmail.com", "password":"aloha123!", "gender":"Male"}
+def get_login_data(request):
+    return request.param
+  self тут тоже не нужен
+
+16. !!! В Debug моде м можем поставить бряку, стартануть, райт кликнуть на переменную в коде и нажать Evaluate expression.
+Это нам покажет текущее значение данной переменной.
